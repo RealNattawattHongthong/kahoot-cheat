@@ -30,4 +30,4 @@ cheat supports images in kahoot quizzes!
 
 # Any problems?
 Create an issue
-# kahoot-cheat
+
